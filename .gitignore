@@ -1,0 +1,18 @@
+# Node modules
+frontend/my-app/node_modules
+
+# Python virtual environment
+backend/venv
+
+# IDE specific files
+.vscode
+.idea
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+environment configuration file
+.env
